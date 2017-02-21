@@ -1,3 +1,6 @@
+# BNHM RShiny REPO
+a place to host bnhm specific shiny apps and also maintain a list of installation instructions and track specific issues.
+
 # Instructions for setting up rshiny on BNHM server
 
 shiny doesn't like reverse proxy, running for now directly on port 80 with apache
