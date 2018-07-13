@@ -1,34 +1,11 @@
-# BNHM RShiny REPO
-a place to host bnhm specific shiny apps and also maintain a list of installation instructions and track specific issues.
+# BNHM RShiny Server
+a place to host bnhm specific shiny apps.
 
-# Instructions for setting up rshiny on BNHM server
+# Instructions for submitting shiny applications
 
-shiny doesn't like reverse proxy, running for now directly on port 80 with apache
-not listening there.
-
-Install R
-```
-yum install R
-```
-
-Markdown installation
-our server doesn't allow executables to stored under /tmp, so:
-as sudo:
-```
-%mkdir ~{user}/tmp
-%export TMPDIR=~{user}/tmp
-% R
-R-promt% install.packages("rmarkdown")
-```
-
-Starting and stopping server
-stop shiny-server
-start shiny-server
-
-Shiny configuration 
-Shiny configuration file is at: /etc/shiny-server/shiny-server.conf 
-  * change to port 80
-  * specify application locations as /srv/shiny-server-{application_name}
-  * specify log directores as /var/log/shiny-server/{application_name}
+Your application for running a shiny application on the bnhm-shiny server requires the following:
+  * Send email to bnhm@berkeley.edu with your name, class affiliation and link to a github repo containing your shiny application
+  * The github repository must clearly include a list of package dependencies on the README.md homepage for your shiny app.
+  * While we don't strictly enforce coding standards, we expect all code to be well-written and clearly documented using code comments and Markdown to explain what your application is meant to do.
 
 
