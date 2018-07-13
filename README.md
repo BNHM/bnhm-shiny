@@ -15,6 +15,6 @@ Your application for running a shiny application on the bnhm-shiny server requir
 
 # List of shiny applications which have passed review and are active
 
- * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) [code](https://github.com/niklaslollo/HWMO_webapp)
+ * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) by Niklas Lollo.  [github repo](https://github.com/niklaslollo/HWMO_webapp)
 
 
