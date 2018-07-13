@@ -1,5 +1,5 @@
 # BNHM RShiny Server
-a place to host bnhm specific shiny apps.
+a place to host bnhm specific shiny apps currently running at https://bnhm-shiny.berkeley.edu/
 
 # Instructions for submitting shiny applications
 
