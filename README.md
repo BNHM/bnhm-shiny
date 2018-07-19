@@ -3,20 +3,11 @@ A place to host Berkeley Natural History Museum (shiny)[https://shiny.rstudio.co
 
 # Instructions for submitting shiny applications
 
-Your application for running a shiny application on the bnhm-shiny server requires the following:
-  * Send email to bnhm@berkeley.edu with your name, class affiliation and link to a github repo containing your shiny application
-  * Include a list of package dependencies on the README.md homepage under a '# Dependencies' heading.
-  * Ensure your code is well-written and clearly documented using code comments and Markdown to explain what your application is meant to do.
-  * Maintain your code on your github repository
+Your application for running a shiny application on the bnhm-shiny server can be started by opening an issue in this repository using the onboarding template. Follow the instructions on the template to get started.  In general, we are looking for code that is maintained as a public repository in github, well written code, code documentation, a descriptive README.md file, and a list of dependencies. 
  
-Please note that BNHM does not guarrantee continued availability of shiny applications that have passed review and may remove the applications at any time.  However, we will do our best to give users a warning if the application needs to come down or if the server will not be available.
-  
-# List of shiny applications suggested for review
-
-# List of shiny applications which have passed review, but not yet active
-
-# List of shiny applications which have passed review and are active
-
+Please note that BNHM will host accepted applications for two years but does not guarrantee continued availability after that.  We will do our best to maintain code longer than 2 years as well as to give users a warning if the application needs to come down or if the server will not be available.
+ 
+# List of currently active shiny applications 
  * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) by Niklas Lollo.  [github repo](https://github.com/niklaslollo/HWMO_webapp)
 
 
