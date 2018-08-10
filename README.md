@@ -1,5 +1,5 @@
 # BNHM Shiny Server
-A place to host Berkeley Natural History Museum (shiny)[https://shiny.rstudio.com/] applications.  See the bottom of this page for links to applications which are hosted on the BNHM shiny server.  These are applications which have been submitted to the BNHM review team and have passed several checks.  
+A place to host Berkeley Natural History Museum [R Shiny](https://shiny.rstudio.com/) applications.  See the bottom of this page for links to applications which are hosted on the BNHM shiny server.  These are applications which have been submitted to the BNHM review team and have passed several checks.  
 
 # Instructions for submitting shiny applications
 
