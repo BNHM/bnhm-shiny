@@ -9,5 +9,6 @@ Please note that BNHM will host accepted applications from DS421 students and po
  
 # List of currently active shiny applications 
  * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) by Niklas Lollo.  [github repo](https://github.com/niklaslollo/HWMO_webapp)
+ * [California Plant Phylodiversity Atlas](https://bnhm-shiny.berkeley.edu/cappa/) by Matthew Kling [github repo](https://github.com/matthewkling/cappa)
 
 
