@@ -1,5 +1,5 @@
 # List of currently active shiny applications 
- * [Classifying Land Cover in the Elkhorn Slough] 2019 (https://bnhm-shiny.berkeley.edu/ElkhornSloughPublic/) [[github repo](https://github.com/mvandop/ElkhornSloughPublic)]
+ * [Classifying Land Cover in the Elkhorn Slough](https://bnhm-shiny.berkeley.edu/ElkhornSloughPublic/) 2019 [[github repo](https://github.com/mvandop/ElkhornSloughPublic)]
  * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) 2018 [[github repo](https://github.com/niklaslollo/HWMO_webapp)]
  * [California Plant Phylodiversity Atlas](https://bnhm-shiny.berkeley.edu/cappa/) 2018 [[github repo](https://github.com/matthewkling/cappa)]
 
