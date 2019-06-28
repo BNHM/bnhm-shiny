@@ -1,7 +1,7 @@
 # List of currently active shiny applications 
  * [Hawaii Wildfire](https://bnhm-shiny.berkeley.edu/HWMO/) [[github repo](https://github.com/niklaslollo/HWMO_webapp)]
  * [California Plant Phylodiversity Atlas](https://bnhm-shiny.berkeley.edu/cappa/) [[github repo](https://github.com/matthewkling/cappa)]
- * [Elkhorn Slough Land Use](https://bnhm-shiny.berkeley.edu/ElkhornSloughPublic/) [[github repo](https://github.com/mvandop/ElkhornSloughPublic)]
+ * [Classifying Land Cover in the Elkhorn Slough](https://bnhm-shiny.berkeley.edu/ElkhornSloughPublic/) [[github repo](https://github.com/mvandop/ElkhornSloughPublic)]
 
 # BNHM Shiny Server
 A place to host Berkeley Natural History Museum [R Shiny](https://shiny.rstudio.com/) applications.  See the bottom of this page for links to applications which are hosted on the BNHM shiny server.  These are applications which have been submitted to the BNHM review team and have passed several checks.  
