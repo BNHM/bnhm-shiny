@@ -14,7 +14,7 @@ Please note that BNHM will host accepted applications from DS421 students and po
  
  # System Administration / Deployment Details
   * as user shiny, checkout code in /home/shiny/code on beagle
-  * as root create a symbolic link to the applications app directory in /srv/shiny-server
+  * FIRST TIME ONLY: as root create a symbolic link to the applications app directory in /srv/shiny-server
   * test deployment and then add to the list of currently active shiny applications above
 
 
